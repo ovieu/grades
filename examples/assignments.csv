@@ -1,0 +1,18 @@
+Name,Category,Possible,Weight,Slip Group
+Homework 1,Homework,34,1.0,-1
+Homework 2,Homework,21,1.0,-1
+Homework 3,Homework,40,1.0,-1
+Homework 4,Homework,29,1.0,-1
+Homework 5,Homework,22,1.0,-1
+Homework 6,Homework,19,1.0,-1
+Homework 7,Homework,31,1.0,-1
+(Optional) Network Security Lab,Homework,1,1.0,-1
+Project 1 Autograder,Project,90,1.0,1
+Project 1 Writeup,Project,90,1.0,1
+Project 2 Design Document Checkpoint,Project,10,0.06666666666666667,2
+Project 2 Design Document Final,Project,20,0.13333333333333333,3
+Project 2 Autograder,Project,120,0.8,3
+Project 3 Writeup,Project,30,0.3,4
+Project 3 Flags,Project,70,0.7,4
+Midterm,Midterm,150,1.0,-1
+Final,Final,230,1.0,-1
